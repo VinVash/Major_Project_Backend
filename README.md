@@ -13,7 +13,7 @@ This repository contains all the materials and code related to our major project
 
 ## Contents
 1. **Code**: All the source code used for the project.
-2. **Documentation**: Detailed documentation explaining the code, its structure, and how to run it.
+2. **Setup and Installation**: Detailed setup and installation explaining how to run it.
 
 ⚠️ **Warning**: The dataset used in this project is proprietary to Melio.tech and is **not available publicly**. Unauthorized distribution or use of this dataset is strictly prohibited.
 
